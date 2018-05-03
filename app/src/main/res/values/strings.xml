@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">realmexample</string>
+    <string name="nombre">Nombre</string>
+    <string name="apellido">Apellido</string>
+    <string name="edad">Edad</string>
+    <string name="telefono">Telefono</string>
+    <string name="guardar">Guardar</string>
+    <string name="leer">Leer datos</string>
+</resources>
